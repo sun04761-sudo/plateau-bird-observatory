@@ -1,6 +1,4 @@
-Flying crane footage: Vliegende kraanvogels-4961781.webm
-Creator: Marc Plomp
-Source: https://commons.wikimedia.org/wiki/File:Vliegende_kraanvogels-4961781.webm
-License: Creative Commons Attribution-ShareAlike 3.0 Netherlands
-https://creativecommons.org/licenses/by-sa/3.0/nl/
-Modifications: excerpt 88–95.6 seconds, isolated bird silhouette, sampled and retimed for a 4.6-second landscape composite. Flight atlas and still derivatives are shared under the same license. Footage shows Common Crane (Grus grus), not Black-necked Crane.
+Opening flight footage: Eagle Flying Freely, by Ton Souza.
+https://www.pexels.com/video/eagle-flying-freely-4438384/
+License: https://www.pexels.com/license/
+Changes: first 24 seconds retimed to 6 seconds, encoded for web playback. Original continuous scene retained; no isolated bird or artificial flight path. This is a flight study, not footage of the black-necked crane observation sample, and is not presented as filmed on the Tibetan Plateau.
